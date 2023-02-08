@@ -1,6 +1,6 @@
 {
   "baner": {
-    "display": true;
+    "display": true,
     "img": "https://raw.githubusercontent.com/niklot47/construct3/main/archerAndFigter/placeholder.png",
     "header": "header",
     "description": "description",
